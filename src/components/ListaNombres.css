@@ -1,0 +1,12 @@
+.btn-danger{
+    float: right;
+}
+
+.btn-info{
+    float: right;
+    margin-right: 10px;
+}
+
+.alert-danger{
+    display: inline-block;
+}
